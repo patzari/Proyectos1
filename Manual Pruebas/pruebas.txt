@@ -1,0 +1,2 @@
+Para poder realizar las pruebas de usuario se necesita utilizar las librerias de PHPUnit y en algunos casos contar con la instalacion de laravel, ya que este preograma fue empleado para las pruebas de integracion
+ las pruebas se encuentran en: Control_de_sitios_de_Estacionamientos-master\Desarrollo\test
